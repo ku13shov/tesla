@@ -326,6 +326,13 @@ body {
     margin-left: 23px;
   }
   .slider ul {
-    margin: -70px auto 0;
+    margin: -90px auto 0;
+  }
+  body {
+    font-size: 20px;
+    line-height: 24px;
+  }
+  .header-content__btn a {
+    padding: 20px 40px;
   }
 }
