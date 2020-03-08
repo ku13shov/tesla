@@ -325,5 +325,7 @@ body {
     transform: scale(1.1);
     margin-left: 23px;
   }
-
+  .slider ul {
+    margin: -70px auto 0;
+  }
 }
