@@ -306,7 +306,14 @@ body {
 .footer__contact:last-child {
   border: none;
 }
-
+@media (max-width: 415px) {
+  .slider ul {
+    margin: -120px auto 0;
+  }
+  .header-content__btn a {
+    padding: 25px 50px;
+  }
+}
 @media (max-width: 410px) {
   .header-content__title {
     font-size: 70px;
