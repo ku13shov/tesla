@@ -343,3 +343,13 @@ body {
     padding: 20px 40px;
   }
 }
+
+
+@media (max-height: 560px) {
+  .slider__item {
+    height: 600px;
+  }
+  .menu__list {
+    height: 600px;
+  }
+}
